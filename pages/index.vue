@@ -3,7 +3,7 @@
     <div>
       <Logo />
       <h1 class="title">
-        App-service-linux SRA Tohoku.
+        Hello, SRA.
       </h1>
       <div class="links">
         <a
