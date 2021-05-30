@@ -3,7 +3,7 @@
     <div>
       <Logo />
       <h1 class="title">
-        Hello, SRA.
+        Hello, SRA Tohoku.
       </h1>
     </div>
   </div>
