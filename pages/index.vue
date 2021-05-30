@@ -3,9 +3,9 @@
     <div>
       <Logo />
       <h1 class="title">
-        Hello, SRA tohoku.
+        Hello, SRA.
       </h1>
-      <div class="links">
+      <!-- <div class="links">
         <a
           href="https://nuxtjs.org/"
           target="_blank"
@@ -22,7 +22,7 @@
         >
           GitHub
         </a>
-      </div>
+      </div> -->
     </div>
   </div>
 </template>
